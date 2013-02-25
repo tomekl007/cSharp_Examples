@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="new" Class="CustomerDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\new.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True" SettingsObjectName="linqToSql.Properties.Settings" SettingsPropertyName="newConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="" Member="Customers">
+    <Type Name="Customer">
+      <Column Name="Id" Type="int" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" CanBeNull="false" />
+      <Association Name="Customer_Purchase" Member="Purchases" ThisKey="Id" OtherKey="CustomerId" Type="Purchase" />
+    </Type>
+  </Table>
+  <Table Name="" Member="Przyklads">
+    <Type Name="Przyklad">
+      <Column Name="Imie" Type="System.String" CanBeNull="false" />
+      <Column Name="Nazwisko" Type="System.String" CanBeNull="false" />
+      <Column Name="ID" Type="int" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="Purchases">
+    <Type Name="Purchase">
+      <Column Name="ID" Type="int" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CustomerId" AutoSync="Never" Type="int" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Price" Type="System.Single" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" CanBeNull="false" />
+      <Association Name="Customer_Purchase" Member="Customer" ThisKey="CustomerId" OtherKey="Id" Type="Customer" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

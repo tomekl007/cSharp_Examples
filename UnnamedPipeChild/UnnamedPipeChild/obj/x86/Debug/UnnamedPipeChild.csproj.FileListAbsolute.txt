@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnnamedPipeChild\UnnamedPipeChild\bin\Debug\UnnamedPipeChild.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnnamedPipeChild\UnnamedPipeChild\bin\Debug\UnnamedPipeChild.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnnamedPipeChild\UnnamedPipeChild\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnnamedPipeChild\UnnamedPipeChild\obj\x86\Debug\UnnamedPipeChild.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnnamedPipeChild\UnnamedPipeChild\obj\x86\Debug\UnnamedPipeChild.pdb

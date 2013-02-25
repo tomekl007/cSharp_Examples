@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer>
+  <firstname>Jim</firstname>
+  <lastname> Bo</lastname>
+  <lastname> Bo</lastname>
+  <customer id="1" status="archived" />
+  <o:customer xmlns:o="http://oreilly.com">
+    <o:firstname>Jim</o:firstname>
+    <o:lastname>Bo</o:lastname>
+  </o:customer>
+</customer>

@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SqlServerProject1\SqlServerProject1\bin\Debug\SqlServerProject1.dll
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SqlServerProject1\SqlServerProject1\bin\Debug\SqlServerProject1.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SqlServerProject1\SqlServerProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SqlServerProject1\SqlServerProject1\obj\Debug\SqlServerProject1.dll
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SqlServerProject1\SqlServerProject1\obj\Debug\SqlServerProject1.pdb

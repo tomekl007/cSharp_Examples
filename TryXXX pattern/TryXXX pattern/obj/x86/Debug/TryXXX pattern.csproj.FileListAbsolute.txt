@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TryXXX pattern\TryXXX pattern\bin\Debug\TryXXX pattern.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TryXXX pattern\TryXXX pattern\bin\Debug\TryXXX pattern.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TryXXX pattern\TryXXX pattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TryXXX pattern\TryXXX pattern\obj\x86\Debug\TryXXX pattern.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TryXXX pattern\TryXXX pattern\obj\x86\Debug\TryXXX pattern.pdb

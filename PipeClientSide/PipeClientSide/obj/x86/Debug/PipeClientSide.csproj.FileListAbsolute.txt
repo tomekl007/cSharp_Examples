@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PipeClientSide\PipeClientSide\bin\Debug\PipeClientSide.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PipeClientSide\PipeClientSide\bin\Debug\PipeClientSide.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PipeClientSide\PipeClientSide\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PipeClientSide\PipeClientSide\obj\x86\Debug\PipeClientSide.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PipeClientSide\PipeClientSide\obj\x86\Debug\PipeClientSide.pdb

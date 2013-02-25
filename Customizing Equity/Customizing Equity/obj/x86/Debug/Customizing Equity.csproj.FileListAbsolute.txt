@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing Equity\Customizing Equity\bin\Debug\Customizing Equity.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing Equity\Customizing Equity\bin\Debug\Customizing Equity.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing Equity\Customizing Equity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing Equity\Customizing Equity\obj\x86\Debug\Customizing Equity.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing Equity\Customizing Equity\obj\x86\Debug\Customizing Equity.pdb

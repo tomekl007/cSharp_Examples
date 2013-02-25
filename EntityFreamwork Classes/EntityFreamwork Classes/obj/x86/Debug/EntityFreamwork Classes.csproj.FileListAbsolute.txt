@@ -1,0 +1,8 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\EntityFreamwork Classes\EntityFreamwork Classes\bin\Debug\new.mdf
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\EntityFreamwork Classes\EntityFreamwork Classes\bin\Debug\new_log.ldf
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\EntityFreamwork Classes\EntityFreamwork Classes\bin\Debug\EntityFreamwork Classes.exe.config
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\EntityFreamwork Classes\EntityFreamwork Classes\bin\Debug\EntityFreamwork Classes.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\EntityFreamwork Classes\EntityFreamwork Classes\bin\Debug\EntityFreamwork Classes.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\EntityFreamwork Classes\EntityFreamwork Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\EntityFreamwork Classes\EntityFreamwork Classes\obj\x86\Debug\EntityFreamwork Classes.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\EntityFreamwork Classes\EntityFreamwork Classes\obj\x86\Debug\EntityFreamwork Classes.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\MulticastDelegateExample\MulticastDelegateExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\MulticastDelegateExample\MulticastDelegateExample\bin\Debug\MulticastDelegateExample.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\MulticastDelegateExample\MulticastDelegateExample\bin\Debug\MulticastDelegateExample.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\MulticastDelegateExample\MulticastDelegateExample\obj\x86\Debug\MulticastDelegateExample.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\MulticastDelegateExample\MulticastDelegateExample\obj\x86\Debug\MulticastDelegateExample.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Customer">
+  <DataContextMoniker Name="/CustomerDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ae563ed1-5179-4b96-a15c-3299fedab4ca" absoluteBounds="2.5, 4.25, 2, 1.1939925130208327">
+      <DataClassMoniker Name="/CustomerDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="529e0c1e-e6e9-4a15-beb6-2c201a6b816b" absoluteBounds="2.5149999999999997, 4.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5d80e8ff-9684-4fa8-b40e-dc56d1237e67" absoluteBounds="1.875, 1.875, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/CustomerDataContext/Przyklad" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f0b61489-180c-4e9c-8505-957516c0c22c" absoluteBounds="1.8899999999999997, 2.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7dcd3965-5cd1-4fec-9f94-050b55ac2a60" absoluteBounds="6.125, 4.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CustomerDataContext/Purchase" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dce3cfc8-2b61-41d7-9a2e-8910a01a6eb9" absoluteBounds="6.14, 4.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5 : 4.84699625651042); (6.125 : 4.84699625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/CustomerDataContext/Customer/Customer_Purchase" />
+      <nodes>
+        <classShapeMoniker Id="ae563ed1-5179-4b96-a15c-3299fedab4ca" />
+        <classShapeMoniker Id="7dcd3965-5cd1-4fec-9f94-050b55ac2a60" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

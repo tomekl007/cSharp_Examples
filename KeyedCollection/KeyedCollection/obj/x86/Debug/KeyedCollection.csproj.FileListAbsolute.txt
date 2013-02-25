@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\KeyedCollection\KeyedCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\KeyedCollection\KeyedCollection\bin\Debug\KeyedCollection.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\KeyedCollection\KeyedCollection\bin\Debug\KeyedCollection.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\KeyedCollection\KeyedCollection\obj\x86\Debug\KeyedCollection.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\KeyedCollection\KeyedCollection\obj\x86\Debug\KeyedCollection.pdb

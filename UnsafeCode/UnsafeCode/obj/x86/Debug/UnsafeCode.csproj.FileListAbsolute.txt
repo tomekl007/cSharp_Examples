@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnsafeCode\UnsafeCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnsafeCode\UnsafeCode\bin\Debug\UnsafeCode.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnsafeCode\UnsafeCode\bin\Debug\UnsafeCode.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnsafeCode\UnsafeCode\obj\x86\Debug\UnsafeCode.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\UnsafeCode\UnsafeCode\obj\x86\Debug\UnsafeCode.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ComposingIterators\ComposingIterators\bin\Debug\ComposingIterators.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ComposingIterators\ComposingIterators\bin\Debug\ComposingIterators.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ComposingIterators\ComposingIterators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ComposingIterators\ComposingIterators\obj\x86\Debug\ComposingIterators.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ComposingIterators\ComposingIterators\obj\x86\Debug\ComposingIterators.pdb

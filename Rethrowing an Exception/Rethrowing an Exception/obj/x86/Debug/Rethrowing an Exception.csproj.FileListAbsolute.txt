@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Rethrowing an Exception\Rethrowing an Exception\bin\Debug\Rethrowing an Exception.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Rethrowing an Exception\Rethrowing an Exception\bin\Debug\Rethrowing an Exception.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Rethrowing an Exception\Rethrowing an Exception\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Rethrowing an Exception\Rethrowing an Exception\obj\x86\Debug\Rethrowing an Exception.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Rethrowing an Exception\Rethrowing an Exception\obj\x86\Debug\Rethrowing an Exception.pdb

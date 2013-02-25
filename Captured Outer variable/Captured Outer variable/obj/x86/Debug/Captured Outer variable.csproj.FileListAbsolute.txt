@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Captured Outer variable\Captured Outer variable\bin\Debug\Captured Outer variable.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Captured Outer variable\Captured Outer variable\bin\Debug\Captured Outer variable.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Captured Outer variable\Captured Outer variable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Captured Outer variable\Captured Outer variable\obj\x86\Debug\Captured Outer variable.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Captured Outer variable\Captured Outer variable\obj\x86\Debug\Captured Outer variable.pdb

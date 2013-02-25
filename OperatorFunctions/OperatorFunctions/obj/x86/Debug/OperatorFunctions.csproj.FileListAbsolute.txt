@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\OperatorFunctions\OperatorFunctions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\OperatorFunctions\OperatorFunctions\bin\Debug\OperatorFunctions.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\OperatorFunctions\OperatorFunctions\bin\Debug\OperatorFunctions.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\OperatorFunctions\OperatorFunctions\obj\x86\Debug\OperatorFunctions.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\OperatorFunctions\OperatorFunctions\obj\x86\Debug\OperatorFunctions.pdb

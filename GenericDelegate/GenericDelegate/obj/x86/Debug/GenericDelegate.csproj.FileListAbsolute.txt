@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\GenericDelegate\GenericDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\GenericDelegate\GenericDelegate\obj\x86\Debug\GenericDelegate.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\GenericDelegate\GenericDelegate\obj\x86\Debug\GenericDelegate.pdb

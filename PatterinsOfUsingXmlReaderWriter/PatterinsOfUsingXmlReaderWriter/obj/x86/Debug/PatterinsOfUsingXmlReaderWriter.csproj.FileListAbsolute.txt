@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PatterinsOfUsingXmlReaderWriter\PatterinsOfUsingXmlReaderWriter\bin\Debug\PatterinsOfUsingXmlReaderWriter.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PatterinsOfUsingXmlReaderWriter\PatterinsOfUsingXmlReaderWriter\bin\Debug\PatterinsOfUsingXmlReaderWriter.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PatterinsOfUsingXmlReaderWriter\PatterinsOfUsingXmlReaderWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PatterinsOfUsingXmlReaderWriter\PatterinsOfUsingXmlReaderWriter\obj\x86\Debug\PatterinsOfUsingXmlReaderWriter.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\PatterinsOfUsingXmlReaderWriter\PatterinsOfUsingXmlReaderWriter\obj\x86\Debug\PatterinsOfUsingXmlReaderWriter.pdb

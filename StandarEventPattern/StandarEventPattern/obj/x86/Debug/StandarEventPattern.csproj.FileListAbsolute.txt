@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StandarEventPattern\StandarEventPattern\bin\Debug\StandarEventPattern.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StandarEventPattern\StandarEventPattern\bin\Debug\StandarEventPattern.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StandarEventPattern\StandarEventPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StandarEventPattern\StandarEventPattern\obj\x86\Debug\StandarEventPattern.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StandarEventPattern\StandarEventPattern\obj\x86\Debug\StandarEventPattern.pdb

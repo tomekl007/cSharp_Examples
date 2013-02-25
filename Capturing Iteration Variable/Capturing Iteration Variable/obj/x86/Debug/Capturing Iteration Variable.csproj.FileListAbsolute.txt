@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Capturing Iteration Variable\Capturing Iteration Variable\bin\Debug\Capturing Iteration Variable.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Capturing Iteration Variable\Capturing Iteration Variable\bin\Debug\Capturing Iteration Variable.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Capturing Iteration Variable\Capturing Iteration Variable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Capturing Iteration Variable\Capturing Iteration Variable\obj\x86\Debug\Capturing Iteration Variable.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Capturing Iteration Variable\Capturing Iteration Variable\obj\x86\Debug\Capturing Iteration Variable.pdb

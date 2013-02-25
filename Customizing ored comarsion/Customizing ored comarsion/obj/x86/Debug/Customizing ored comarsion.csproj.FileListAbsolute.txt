@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing ored comarsion\Customizing ored comarsion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing ored comarsion\Customizing ored comarsion\bin\Debug\Customizing ored comarsion.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing ored comarsion\Customizing ored comarsion\bin\Debug\Customizing ored comarsion.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing ored comarsion\Customizing ored comarsion\obj\x86\Debug\Customizing ored comarsion.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Customizing ored comarsion\Customizing ored comarsion\obj\x86\Debug\Customizing ored comarsion.pdb

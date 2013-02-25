@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TCPclientServ\TCPclientServ\bin\Debug\TCPclientServ.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TCPclientServ\TCPclientServ\bin\Debug\TCPclientServ.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TCPclientServ\TCPclientServ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TCPclientServ\TCPclientServ\obj\x86\Debug\TCPclientServ.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\TCPclientServ\TCPclientServ\obj\x86\Debug\TCPclientServ.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>void Star</name>
+    </assembly>
+    <members>
+        <member name="M:void_Star.Program.Zap(System.Void*,System.Int32)">
+            <summary>
+            get void* and zeros memory to byteCount
+            </summary>
+            <param name="memory"></param>
+            <param name="byteCount"></param>
+        </member>
+    </members>
+</doc>

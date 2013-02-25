@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Process and redireciton\Process and redireciton\bin\Debug\Process and redireciton.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Process and redireciton\Process and redireciton\bin\Debug\Process and redireciton.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Process and redireciton\Process and redireciton\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Process and redireciton\Process and redireciton\obj\x86\Debug\Process and redireciton.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Process and redireciton\Process and redireciton\obj\x86\Debug\Process and redireciton.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\linqToSql\linqToSql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\linqToSql\linqToSql\bin\Debug\Customer.sdf
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\linqToSql\linqToSql\bin\Debug\linqToSql.exe.config
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\linqToSql\linqToSql\bin\Debug\linqToSql.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\linqToSql\linqToSql\bin\Debug\linqToSql.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\linqToSql\linqToSql\obj\x86\Debug\linqToSql.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\linqToSql\linqToSql\obj\x86\Debug\linqToSql.pdb
+F:\C sharp\c sharp nutshell 5\visualProjects\linqToSql\linqToSql\bin\Debug\linqToSql.exe.config
+F:\C sharp\c sharp nutshell 5\visualProjects\linqToSql\linqToSql\obj\x86\Debug\linqToSql.exe
+F:\C sharp\c sharp nutshell 5\visualProjects\linqToSql\linqToSql\obj\x86\Debug\linqToSql.pdb

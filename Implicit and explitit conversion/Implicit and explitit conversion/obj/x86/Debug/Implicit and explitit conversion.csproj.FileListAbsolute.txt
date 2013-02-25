@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Implicit and explitit conversion\Implicit and explitit conversion\bin\Debug\Implicit and explitit conversion.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Implicit and explitit conversion\Implicit and explitit conversion\bin\Debug\Implicit and explitit conversion.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Implicit and explitit conversion\Implicit and explitit conversion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Implicit and explitit conversion\Implicit and explitit conversion\obj\x86\Debug\Implicit and explitit conversion.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Implicit and explitit conversion\Implicit and explitit conversion\obj\x86\Debug\Implicit and explitit conversion.pdb

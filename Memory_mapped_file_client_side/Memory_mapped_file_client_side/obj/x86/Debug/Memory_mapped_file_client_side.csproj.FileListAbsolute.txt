@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Memory_mapped_file_client_side\Memory_mapped_file_client_side\bin\Debug\Memory_mapped_file_client_side.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Memory_mapped_file_client_side\Memory_mapped_file_client_side\bin\Debug\Memory_mapped_file_client_side.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Memory_mapped_file_client_side\Memory_mapped_file_client_side\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Memory_mapped_file_client_side\Memory_mapped_file_client_side\obj\x86\Debug\Memory_mapped_file_client_side.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Memory_mapped_file_client_side\Memory_mapped_file_client_side\obj\x86\Debug\Memory_mapped_file_client_side.pdb

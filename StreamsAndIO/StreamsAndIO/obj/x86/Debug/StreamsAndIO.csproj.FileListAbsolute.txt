@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StreamsAndIO\StreamsAndIO\bin\Debug\StreamsAndIO.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StreamsAndIO\StreamsAndIO\bin\Debug\StreamsAndIO.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StreamsAndIO\StreamsAndIO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StreamsAndIO\StreamsAndIO\obj\x86\Debug\StreamsAndIO.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\StreamsAndIO\StreamsAndIO\obj\x86\Debug\StreamsAndIO.pdb

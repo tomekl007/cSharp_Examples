@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ConcurentPatterns\ConcurentPatterns\bin\Debug\ConcurentPatterns.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ConcurentPatterns\ConcurentPatterns\bin\Debug\ConcurentPatterns.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ConcurentPatterns\ConcurentPatterns\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ConcurentPatterns\ConcurentPatterns\obj\x86\Debug\ConcurentPatterns.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\ConcurentPatterns\ConcurentPatterns\obj\x86\Debug\ConcurentPatterns.pdb

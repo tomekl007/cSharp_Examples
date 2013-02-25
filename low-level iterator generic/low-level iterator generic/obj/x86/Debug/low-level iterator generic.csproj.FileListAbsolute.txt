@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\low-level iterator generic\low-level iterator generic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\low-level iterator generic\low-level iterator generic\bin\Debug\low-level iterator generic.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\low-level iterator generic\low-level iterator generic\bin\Debug\low-level iterator generic.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\low-level iterator generic\low-level iterator generic\obj\x86\Debug\low-level iterator generic.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\low-level iterator generic\low-level iterator generic\obj\x86\Debug\low-level iterator generic.pdb

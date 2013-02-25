@@ -1,0 +1,13 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\MainWindow.baml
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\App.g.cs
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\SynchronizationContextEx_MarkupCompile.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\SynchronizationContextEx.g.resources
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\SynchronizationContextEx.Properties.Resources.resources
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\bin\Debug\SynchronizationContextEx.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\bin\Debug\SynchronizationContextEx.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\SynchronizationContextEx.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\SynchronizationContextEx\SynchronizationContextEx\obj\x86\Debug\SynchronizationContextEx.pdb

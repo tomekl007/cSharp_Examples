@@ -1,0 +1,5 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\WeakDelegateEx\WeakDelegateEx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\WeakDelegateEx\WeakDelegateEx\bin\Debug\WeakDelegateEx.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\WeakDelegateEx\WeakDelegateEx\bin\Debug\WeakDelegateEx.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\WeakDelegateEx\WeakDelegateEx\obj\x86\Debug\WeakDelegateEx.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\WeakDelegateEx\WeakDelegateEx\obj\x86\Debug\WeakDelegateEx.pdb
